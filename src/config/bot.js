@@ -25,7 +25,7 @@ export const botConfig = {
       {
         name: "Custom Status", // required by Discord API, not shown in the client
         state: "𝓼𝓱𝓮 𝓼𝓸 𝓭𝓮𝓹 𝓰𝓪𝓲",     // this is what people actually see
-        type: 4,               // Custom
+        type: 4,"Created by server owner https://beacons.ai/nguyenzinhhuy" // Custom
       },
     ],
   },
